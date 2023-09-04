@@ -1,3 +1,3 @@
 # Listner
 
-AI based Life Assistance Chatbot Intrgration for public welfare
+AI based Life Assistance Chatbot Integration for public welfare
